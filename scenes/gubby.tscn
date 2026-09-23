@@ -3,4 +3,6 @@
 [ext_resource type="Texture2D" uid="uid://dm6nnweo1owyp" path="res://assets/images/gubby.png" id="1_5v3hi"]
 
 [node name="Gubby" type="Sprite2D" unique_id=1051275222]
+position = Vector2(47, 53.000004)
+scale = Vector2(0.29746836, 0.29746833)
 texture = ExtResource("1_5v3hi")
