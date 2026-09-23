@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://b4gf4kfbpwrvk"]
+
+[ext_resource type="Texture2D" uid="uid://dm6nnweo1owyp" path="res://assets/images/gubby.png" id="1_5v3hi"]
+
+[node name="Gubby" type="Sprite2D" unique_id=1051275222]
+texture = ExtResource("1_5v3hi")
